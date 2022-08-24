@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/FCAI.CU/Second Level/Second Semester/Data structure/ASs/prob2/fraction.h
+iostream
+-
+
+D:/FCAI.CU/Second Level/Second Semester/Data structure/ASs/prob2/fractionCalculator.cpp
+fractionCalculator.h
+D:/FCAI.CU/Second Level/Second Semester/Data structure/ASs/prob2/fractionCalculator.h
+
+D:/FCAI.CU/Second Level/Second Semester/Data structure/ASs/prob2/fractionCalculator.h
+fraction.h
+D:/FCAI.CU/Second Level/Second Semester/Data structure/ASs/prob2/fraction.h
+
